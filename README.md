@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/f10-v0.1.0-black" />
 </h1>
 
-**f10** is a simple, robust & easily modifiable ME CLI[^1] for AI — <i>using the F10 map</i>.
+**f10** is a simple, robust & easily modifiable ME CLI[^1] for DCS — <i>using the F10 map</i>.
 
 Inspired by other mission systems, f10 is designed to be a plug-and-play solution for developers to add map marker commands to singleplayer or multiplayer missions.
 
