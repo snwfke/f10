@@ -7,7 +7,7 @@
 
 **f10** is a simple, robust & easily modifiable ME CLI[^1] for AI — <i>using the F10 map</i>.
 
-Inspired by military real-time strategy games, f10 is designed to be a plug-and-play solution for developers to add map marker commands to singleplayer or multiplayer missions.
+Inspired by other mission systems, f10 is designed to be a plug-and-play solution for developers to add map marker commands to singleplayer or multiplayer missions.
 
 [^1]: This is the abbreviation for a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface), majorly responsible
 for allowing developers to execute commands on any given system.
