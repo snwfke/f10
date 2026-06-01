@@ -2,6 +2,7 @@
     <img width="32" height="32" alt="binoculars-solid" src="https://github.com/user-attachments/assets/b5d13499-2bac-40a3-b4d8-0225e523da22" />
     f10
     <img src="https://img.shields.io/badge/lua-5.5.0-darkblue" />
+    <img src="https://img.shields.io/badge/f10-v0.1.0-black" />
 </h1>
 
 **f10** is a simple, robust & easily modifiable ME CLI[^1] for AI — <i>using the F10 map</i>.
