@@ -18,7 +18,7 @@ for allowing developers to execute commands on any given system.
 <ul><ul>
     <b>Simple to learn.</b><br/>
     f10 is built to cater towards the inexperienced, this tooling has been battle-tested across many multiplayer servers.<br/>
-    <a href="/">Learn more →</a>
+    <a href="#getting-started">Learn more →</a>
 </ul></ul>
 
 <img align="left" src="https://github.com/user-attachments/assets/0935fbf4-ddf4-4421-a2ac-1db48c472b03" />
@@ -30,9 +30,8 @@ for allowing developers to execute commands on any given system.
 <img align="left" src="https://github.com/user-attachments/assets/fce48889-d2ef-4ca3-a3af-b01a4e750847" />
 <ul><ul>
     <b>Scalable & modular.</b><br/>
-    f10's structure is scaled by the desired behaviour and modularised in command-to-schema translation,
-    allowing it to be used as a cookie-cutter template.<br/>
-    <a href="/"> Learn more →</a>
+    f10's structure is scaled by desired behaviour and modularised through written command schema,
+    making it simple to modify & layer.<br/>
 </ul></ul>
 
 ## Getting started
