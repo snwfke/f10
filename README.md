@@ -14,27 +14,27 @@ for allowing developers to execute commands on any given system.
 
 ## Features
 
-<img align="left" src="https://github.com/user-attachments/assets/d221101a-e7a5-4de0-9ce8-265c8752a875" />
+<img align="left" height="24" src="https://github.com/user-attachments/assets/99ae3c1f-5a09-4ad1-8d17-7fc1c205f2be" />
 <ul><ul>
     <b>Simple to learn.</b><br/>
     f10 is built to cater towards the inexperienced, this tooling has been battle-tested across many multiplayer servers.<br/>
     <a href="#getting-started">Learn more →</a>
 </ul></ul>
 
-<img align="left" src="https://github.com/user-attachments/assets/0935fbf4-ddf4-4421-a2ac-1db48c472b03" />
+<img align="left" height="24" src="https://github.com/user-attachments/assets/42895cd8-d63c-4335-8f98-acd4ad322861" />
 <ul><ul>
     <b>Behaviour you can expect.</b><br/>
     The CLI has been thoroughly documented for you to better understand its nature, including the parser. Basic and minimal examples can also be found for AI behaviour, e.g. movement.
 </ul></ul>
 
-<img align="left" src="https://github.com/user-attachments/assets/fce48889-d2ef-4ca3-a3af-b01a4e750847" />
+<img align="left" height="24" src="https://github.com/user-attachments/assets/101adebf-1827-4e2b-be95-666d1addcdcb" />
 <ul><ul>
     <b>Scalable & modular.</b><br/>
     f10's structure is scaled by desired behaviour and modularised through written command schema,
     making it simple to modify & layer.<br/>
 </ul></ul>
 
-## Getting started
+## Getting Started
 
 > [!WARNING]
 > If you're updating the script, you must re-add the file and then save the mission.
@@ -63,3 +63,7 @@ function EventHandler:onEvent(event)
     end
 end
 ```
+
+## Advanced
+
+To learn more how to gain the most out of f10, please read our [usage documentation](USAGE.md).
