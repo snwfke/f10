@@ -1,5 +1,5 @@
 <h1>
-    <img width="32" height="32" alt="binoculars-solid" src="https://github.com/user-attachments/assets/b5d13499-2bac-40a3-b4d8-0225e523da22" />
+    <img width="32" height="32" src="https://github.com/user-attachments/assets/b5d13499-2bac-40a3-b4d8-0225e523da22" />
     f10
     <img src="https://img.shields.io/badge/lua-5.5.0-darkblue" />
     <img src="https://img.shields.io/badge/f10-v0.1.0-black" />
