@@ -29,7 +29,7 @@ for allowing developers to execute commands on any given system.
 
 <img align="left" height="24" src="https://github.com/user-attachments/assets/101adebf-1827-4e2b-be95-666d1addcdcb" />
 <ul><ul>
-    <b>Scalable & modular.</b><br/>
+    <b>Easily modifiable.</b><br/>
     f10's structure is scaled by desired behaviour and modularised through written command schema,
     making it simple to modify & layer.<br/>
 </ul></ul>
